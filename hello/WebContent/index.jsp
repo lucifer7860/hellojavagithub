@@ -18,7 +18,7 @@
 			<% if(i %2 == 0) { %>
 				<div class="row mt-1" style="height:150px;">
 					<div class="col-12 bg-dark h3 text-light d-flex justify-content-center align-items-center">
-						PROEJCT TITLE <%= i %>
+						PROEJCT TITLE Demo <%= i %>
 					</div>
 				</div>
 			<% } else { %>
